@@ -21,7 +21,7 @@
                     </tr>
                 </thead>
                 <?php
-                
+
                 include_once("./src/main_inc.php");
 
                 foreach($tableau as $key_1 => $index){
