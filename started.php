@@ -44,13 +44,11 @@
                 </tfoot>
             </table>
             </div>
-                <footer>
                     <?php
 
                     include_once("./src/footer_inc.php");
                     
                     ?>
-                </footer>
             </main>
 </body>
 </html>
